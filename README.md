@@ -1,6 +1,6 @@
 # FaceDetection
 
-<h1> This is Face Detection <h1>
+<h1> This is a Face Detection Program <h1>
 
 <h2> We are using deep learning <h2>
 
